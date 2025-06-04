@@ -1,4 +1,4 @@
-# TDS_GameProject
+# TowerDefense_GameProject
 
 ## Goals
 | Done | Task |
