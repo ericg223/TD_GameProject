@@ -11,3 +11,4 @@
 | ❌ | Make a wave system where different type of enemies spawn each wave|
 | ❌ | Make a system where you earn cash when finishing a match|
 | ❌ | Make a shop where you unlock new characters with cash|
+| ❌ | Create different maps|
