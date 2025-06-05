@@ -7,3 +7,7 @@
 - Give it damage, range, and price stats
 - Damage the enemy
 
+## Images
+- 	![alt text](Cannon1.png)
+- 	![alt text](Cannon2.png)
+- 	
