@@ -12,6 +12,9 @@
 | ❌ | Make a wave system where different type of enemies spawn each wave|
 
 ## Introduction
-Orginally this project was plan to be made on p5 javascript, but half way through I realize with this big of a project I should code it with the language I am most familiar with, which is java. This project will be coded in Pickcode with java processing. I was motiviated to do this project because I love to play tower defense game and will like to make my own verison. I ma
+I am a 2024-2025 AP CSA student who has just completed the course and the exam. With the knowledge I gained, I plan to create a tower defense game. Originally, I intended to develop this project using P5.js, but halfway through, I realized that for a project of this scale, I should use the language I am most familiar with: Java. This game will be coded in Pickcode using Java Processing.
+
+I was motivated to take on this project because I love playing tower defense games and want to create my own version. Previously, I made a tower defense game in Roblox Lua by following a tutorial and mostly copying its content. This time, I want to build my own version using the experience I’ve gained from watching tutorials. I will document every step of my development process on GitHub, providing a step-by-step guide on how I created this game.
 
 
+## After the Project
