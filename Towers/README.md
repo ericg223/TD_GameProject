@@ -13,6 +13,8 @@ To create a tower defense game, we need characters (or towers) that can attack e
 | ❌ | Farm (Give money every wave)|
 | ❌ | Medic (Heal your base)|
 
+## Challenges
+- After making a few sprites, I realize that while making sprites resolution and pixels matters. I had to redo some models to make sure it has the right amount of pixels.
 #### Resources
 - [https://www.piskelapp.com/](url)
 
