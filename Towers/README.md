@@ -15,6 +15,7 @@ To create a tower defense game, we need characters (or towers) that can attack e
 
 ## Challenges
 - After making a few sprites, I realize that while making sprites resolution and pixels matters. I had to redo some models to make sure it has the right amount of pixels.
+- One major challenge I face was trying to figure out how to rotate the tower to face the enemy each time. It was very hard to do because there wasn't a specific method that will do this. There is a rotate method but it rotates the whole board, which is not useful. 
 #### Resources
 - [https://www.piskelapp.com/](url)
 
