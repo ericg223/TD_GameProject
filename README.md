@@ -18,4 +18,4 @@ I was motivated to take on this project because I love playing tower defense gam
 
 
 ## After the Project
-There were many skills I gained, while makking this project. I learn amount the important use of folders and how they make your proejcts organize. Similar things should be group together like every character should be inside a characters folder and every enemy should be inside a enemies folder. In this project, I was also able to use/expand the skills I gained from CSA and not let it be wasted/forgotten. 
+There were many skills I gained, while making this project. I learn that using folders are important, while making these projects because it keeps your project organize. Similar things should be group together like every character should be inside a characters folder and every enemy should be inside a enemies folder. In this project, I was also able to use/expand the skills I gained from CSA and not let it be wasted/forgotten. In many other classes I took, such as biology, chemistry, and physic many of the things I learned from those class, I have either forgotten about or I have no use of them at all.  
