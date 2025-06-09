@@ -19,3 +19,10 @@ I was motivated to take on this project because I love playing tower defense gam
 
 ## After the Project
 There were many skills I gained, while making this project. I learn that using folders are important, while making these projects because it keeps your project organize. Similar things should be group together like every character should be inside a characters folder and every enemy should be inside a enemies folder. In this project, I was also able to use/expand the skills I gained from CSA and not let it be wasted/forgotten. In many other classes I took, such as biology, chemistry, and physic many of the things I learned from those class, I have either forgotten about or I have no use of them at all.  
+
+
+## Project History
+- The Start 6/4/25
+- The goal is to make a game similar to Bloons Tower Defense on p5.js 6/4/25
+- Shifted the project from p5.js to Pickcode java 6/6/25
+- Shifted the project goal to make a game similar to Plants vs. Zombies 6/8/25
