@@ -3,13 +3,12 @@
 ## Main Goals
 | Done | Task |
 | ----------- | ----------- |
-| ❌ | Make a path system where enemies can walk on|
 | ✅ | Create a map|
-| ❌ | Make a character that can damage the enemies|
 | ✅ | Make a health system for our base|
-| ❌ | Make a system where you make money after killing an enemy|
-| ❌ | Make a money system where you need to pay money to place characters|
-| ❌ | Make a wave system where different type of enemies spawn each wave|
+| ✅ | Make the first working tower|
+| ❌ | Make the first working enemy|
+| ✅ | Make a currency that is use to place towers|
+| ❌ | Finish the game|
 
 ## Introduction
 I am a 2024-2025 AP CSA student who has just completed the course and the exam. With the knowledge I gained, I plan to create a tower defense game. Originally, I intended to develop this project using P5.js, but halfway through, I realized that for a project of this scale, I should use the language I am most familiar with: Java. This game will be coded in Pickcode using Java Processing.
