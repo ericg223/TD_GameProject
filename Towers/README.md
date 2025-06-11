@@ -10,7 +10,7 @@ To create a tower defense game, we need characters (or towers) that can attack e
 | ❌ | Freezer (Apply cold effect to enemy and make them walk slower)|
 | ❌ | Laser Cannon (Stronger cannon)|
 | ❌ | DJ (Play music and buff the firerate of nearby towers)|
-| ❌ | Farm (Gives money every few second)|
+| ✅ | Farm (Gives money every few second)|
 | ❌ | Rock (Helps stall the enemy)|
 
 ## Challenges
