@@ -8,6 +8,7 @@
 | ✅ | Make the first working tower|
 | ❌ | Make the first working enemy|
 | ✅ | Make a currency that is use to place towers|
+| ❌ | Add working lawn mower system that protects your base|
 | ❌ | Finish the game|
 
 ## Introduction
