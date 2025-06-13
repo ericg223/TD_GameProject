@@ -21,4 +21,4 @@ There are not much code for this tower because it uses inheritance. This tower h
 | Mythic Cannon Frame 3   | ![Mythic Cannon Frame 3](MythicCannon3.png)   |
 | Mythic Cannon Frame 4   | ![Mythic Cannon Frame 4](MythicCannon4.png)   |
 | Mythic Cannon's Bullet  | ![Mythic Cannon's Bullet](MythicCannonBullet.png) |
-| Full Animation   | ![Image](https://github.com/user-attachments/assets/ea1c1b77-62a6-456e-ab6e-4e8d84bafe86)|
+| Full Animation   | ![Image](https://github.com/user-attachments/assets/566dda73-4ae3-4a24-a3a4-579cbaf34611))|
