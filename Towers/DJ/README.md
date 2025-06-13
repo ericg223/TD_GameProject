@@ -30,9 +30,7 @@ The DJ is a support tower that buffs firerate of each tower by 2X.
 
 | Name             | Preview                          |
 |------------------|----------------------------------|
-| DJ Frame 1   | ![Mythic Cannon Frame 1](MythicCannon1.png)   |
-| Mythic Cannon Frame 2   | ![Mythic Cannon Frame 2](MythicCannon2.png)   |
-| Mythic Cannon Frame 3   | ![Mythic Cannon Frame 3](MythicCannon3.png)   |
-| Mythic Cannon Frame 4   | ![Mythic Cannon Frame 4](MythicCannon4.png)   |
-| Mythic Cannon's Bullet  | ![Mythic Cannon's Bullet](MythicCannonBullet.png) |
-| Full Animation   | ![Image](https://github.com/user-attachments/assets/566dda73-4ae3-4a24-a3a4-579cbaf34611)|
+| DJ Frame 1   | ![DJ Frame 1](DJ1.png)   |
+| DJ Frame 2   | ![DJ Frame 2](DJ2.png)   |
+| DJ Frame 3   | ![DJ Frame 3](DJ3.png)   |
+
