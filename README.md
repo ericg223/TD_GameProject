@@ -1,5 +1,6 @@
 # TowerDefense_GameProject
-[https://app.pickcode.io/project/cmbi3ue7f5a71jc2tqtarqfjb](url)
+## 🎮 Game Link
+[Play the game on Pickcode](https://app.pickcode.io/project/cmbi3ue7f5a71jc2tqtarqfjb)
 ## Main Goals
 | Done | Task |
 | ----------- | ----------- |
@@ -18,7 +19,7 @@ I was motivated to take on this project because I love playing tower defense gam
 
 
 ## After the Project
-There were many skills I gained, while making this project. I learn that using folders are important, while making these projects because it keeps your project organize. Similar things should be group together like every character should be inside a characters folder and every enemy should be inside a enemies folder. In this project, I was also able to use/expand the skills I gained from CSA and not let it be wasted/forgotten. In many other classes I took, such as biology, chemistry, and physic many of the things I learned from those class, I have either forgotten about or I have no use of them at all.  
+There were many skills I gained, while making this project. I learn that using folders are important, while making these projects because it keeps your project organize. Similar things should be group together like every character should be inside a characters folder and every enemy should be inside a enemies folder. In this project, I was also able to use/expand the skills I gained from CSA and not let it be wasted/forgotten. In many other classes I took, such as biology, chemistry, and physic many of the things I learned from those class, I have either forgotten about or I have no use of them at all. I also realize that I should take breaks instead of working nonstop. For example, on 6/11/25 I worked for 12 hours straight without breaks trying to finish the project. After this, I started to get very bad headaches, eye strain, and couldn't fall alseep until 3:30 am. 
 
 
 ## Project History
