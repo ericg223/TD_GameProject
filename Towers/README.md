@@ -7,7 +7,7 @@ To create a tower defense game, we need characters (or towers) that can attack e
 | Done | Task |
 | ----------- | ----------- |
 | ✅ | Cannon (Damage enemy)|
-| ❌ | Freezer (Apply cold effect to enemy and make them walk slower)|
+| ✅ | Freezer (Apply cold effect to enemy and make them walk slower)|
 | ✅ | Mythic Cannon (Stronger cannon)|
 | ✅ | DJ (Play music and buff the firerate of nearby towers)|
 | ✅ | Farm (Gives money every few second)|
