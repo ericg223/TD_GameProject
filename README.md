@@ -18,6 +18,8 @@ While I originally began development in **p5.js**, I eventually switched to **Ja
 
 This game draws inspiration from popular games like *Bloons Tower Defense* and *Plants vs. Zombies*. Unlike my earlier project in Roblox Lua, I relied on tutorials heavily. In contrast, this project is made all by myself, showing my own problem-solving skills and creativity. I plan to document my development process on GitHub to share insights and challenges as I go.
 
+During this project, I use inheritance, polymorphism, classes, 2D arrays, and arraylist. All of which are CSA topics. I also went further with this project with advance but manageable topics like files, array of arrayList, and jagged arrays.
+
 ## 💡 Key Lessons Learned
 - **Folder organization matters**: Grouping files by type (e.g., `Towers/`, `Enemies/`, `Sprites/`) helped keep the project maintainable and neat.
 - **Apply what you’ve learned**: This project allowed me to strengthen and expand the skills I learned in CSA.
