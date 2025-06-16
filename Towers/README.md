@@ -11,7 +11,7 @@ To create a tower defense game, we need characters (or towers) that can attack e
 | ✅ | Mythic Cannon (Stronger cannon)|
 | ✅ | DJ (Play music and buff the firerate of nearby towers)|
 | ✅ | Farm (Gives money every few second)|
-| ❌ | Rock (Helps stall the enemy)|
+| ✅ | Stone Head (Helps stall the enemy)|
 
 ## Challenges
 - After making a few sprites, I realize that while making sprites resolution and pixels matters. I had to redo some models to make sure it has the right amount of pixels.
