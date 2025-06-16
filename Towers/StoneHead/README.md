@@ -16,11 +16,13 @@ public void playTowerAnimation(PImage stoneHead1, PImage stoneHead2, PImage ston
 ```
 
 # Summary
-Above is the method I made to switch between different stage of the stone head depending on his health. The less health it has the more broken it looks. 
+Above is the method I made to switch between different stages of the stone head depending on his health. The less health it has the more broken it looks. 
 
 ## Images
 
 | Name             | Preview                          |
 |------------------|----------------------------------|
-| Stone Head Stage 1   | ![Stone Head Stage 1](AppleTreeStage1.png)   |
-
+| Stone Head Stage 1   | ![Stone Head Stage 1](StoneHead1.png)   |
+| Stone Head Stage 2  | ![Stone Head Stage 2](StoneHead2.png)   |
+| Stone Head Stage 3   | ![Stone Head Stage 3](StoneHead3.png)   |
+| Stone Head Stage 4   | ![Stone Head Stage 4](StoneHead4.png)   |
