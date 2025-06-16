@@ -32,4 +32,4 @@ During this project, I use inheritance, polymorphism, classes, 2D arrays, and ar
 - **6/8/25**: Adjusted the goal to create a game more similar to *Plants vs. Zombies*.
 
 ## 🕒 Gameplay
-  ![Image](https://github.com/user-attachments/assets/191358ee-7fb2-44f7-a48e-a5e562098c01)
+  ![Image](https://github.com/user-attachments/assets/bb7edcb8-a5c7-4a69-8605-6291c218d39e)
