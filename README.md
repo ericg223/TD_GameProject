@@ -30,6 +30,6 @@ During this project, I use inheritance, polymorphism, classes, 2D arrays, and ar
 - **6/4/25**: Project started with the goal to replicate Bloons Tower Defense using p5.js.
 - **6/6/25**: Switched development to Java in Pickcode for better familiarity.
 - **6/8/25**: Adjusted the goal to create a game more similar to *Plants vs. Zombies*.
-
+- **6/16/25**: The game is completed.
 ## 🎥 Gameplay
   ![Image](https://github.com/user-attachments/assets/bb7edcb8-a5c7-4a69-8605-6291c218d39e)
