@@ -9,7 +9,7 @@
 | ✅ | Develop the first working tower |
 | ✅ | Create the first working enemy |
 | ✅ | Add a currency system for tower placement |
-| ❌ | Complete and polish the full game |
+| ✅ | Complete and polish the full game |
 
 ## 📘 Introduction
 I am a 2024–2025 AP Computer Science A student who recently completed the course and exam. As a personal project, I decided to create a tower defense game using the skills I learned throughout the year.  I enjoy coding and making my own games. Before taking this class, I already had some experience coding in Roblox using Lua. However, after completing AP CSA, my programming skills have improved significantly, and I now understand coding on a much deeper level.
